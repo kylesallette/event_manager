@@ -17,6 +17,3 @@ class EventManager
   end
 
 end
-
-event = EventManager.new
-event.read_in
