@@ -3,7 +3,6 @@
 ## EventManager
 
 
-
 ### What We're Doing in This Tutorial
 
 Imagine that a friend of yours runs a non-profit org around political activism.
